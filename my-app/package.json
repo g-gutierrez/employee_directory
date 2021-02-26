@@ -13,7 +13,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://g-gutierrez.github.io/",
+  "homepage": "https://g-gutierrez.github.io/employee_directory/my-app/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
